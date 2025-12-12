@@ -15,7 +15,7 @@ skills_required: sterile technique, pipetting skills, standard molecular techniq
 time_required: 60-300
 personnel_required: 1
 language: en
-issued: yyyy-mm-dd
+issued: 2025-12-12
 audience: scientists
 publisher: Scripps Institution of Oceanography, UC San Diego
 hasVersion: 1
@@ -34,8 +34,7 @@ samp_size: 1-70
 samp_size_unit: L
 samp_store_temp: -80
 samp_store_sol: DNA/RNA Shield
-mod_date: 2025-12-08
-rightsHolder: TBD
+mod_date: 2025-12-12
 accessRights: publicly available
 bibliographicCitation: None
 code_repo: github.com/CalCOFI/eDNA-protocols
@@ -60,9 +59,9 @@ code_repo: github.com/CalCOFI/eDNA-protocols
 
 | PREPARED BY | AFFILIATION | ORCID | DATE |
 | ------------- | ------------- | ------------- | ------------- |
-| Nastassia Patin | UC San Diego, CalCOFI | 0000-0001-8522-7682 | yyyy-mm-dd |
-| Eldridge Wisely | UC San Diego, CalCOFI | 0009-0001-2784-4778 | yyyy-mm-dd |
-| Ella Crotty | UC San Diego, CalCOFI | 0009-0004-4340-2007 | yyyy-mm-dd |
+| Nastassia Patin | UC San Diego, CalCOFI | 0000-0001-8522-7682 | 2025-12-12 |
+| Eldridge Wisely | UC San Diego, CalCOFI | 0009-0001-2784-4778 | 2025-12-12 |
+| Ella Crotty | UC San Diego, CalCOFI | 0009-0004-4340-2007 | 2025-12-12 |
 
 ### Protocol Revision Record
 
@@ -72,7 +71,7 @@ code_repo: github.com/CalCOFI/eDNA-protocols
 
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
-| 1.0.0 | yyyy-mm-dd | Initial release |
+| 1.0.0 | 2025-12-12 | Initial release |
 
 ### Acronyms and Abbreviations
 
@@ -278,36 +277,36 @@ Work in progress.
 
 ## APPENDIX A: DATASHEET TEMPLATE
 
-Final latitude and longitude should be in decimal degrees, but that can be calculated later as a different column. Column names can be abbreviated.
+![Sample sheet template (Excel file)](https://github.com/CalCOFI/MOSAIC_Underway_Sampling/blob/main/CalCOFI%20eDNA%20Underway%20Filtration%20Sample%20Sheet%20TEMPLATE.xlsx)
 
 ## APPENDIX B: VIDEO & IMAGE FILES
 
-**Videos!!!**
+**Videos coming soon!!!**
 
-![CarboyOutflowMeasurement)](https://github.com/DolphinCoder/MOSAIC_Protocols_private/blob/main/CarboyOutflowMeasurement.JPG)
+![CarboyOutflowMeasurement)](https://github.com/CalCOFI/MOSAIC_Underway_Sampling/blob/main/Images/CarboyOutflowMeasurement.JPG)
 
 Figure 1. Step 7. When there are around 4 liters in the marked carboy, it is heavy and this is a good time to pour it out. Write the volume, place the tubing outflow in a graduated cylinder, pour out the carboy, and place the tubing outflow back in the carboy while pouring any water that was filtered into the graduated cylinder into the carboy.
 
-![CarboyMarkings)](https://github.com/DolphinCoder/MOSAIC_Protocols_private/blob/main/CarboyMarkings.JPG)
+![CarboyMarkings)](https://github.com/CalCOFI/MOSAIC_Underway_Sampling/blob/main/Images/CarboyMarkings.JPG)
 
 Figure 2. Recommended carboy markings.
 
-![Backflow)](https://github.com/DolphinCoder/MOSAIC_Protocols_private/blob/main/Backflow.JPG)
+![Backflow)](https://github.com/CalCOFI/MOSAIC_Underway_Sampling/blob/main/Images/Backflow.JPG)
 
 Figure 3. Step 3. Turn the tap on very low pressure, and press the end of the pump tubing against the bottom of the Swinnex housing to flow water through it backwards. This prevents bubbles.
 
-![FilterFold)](https://github.com/DolphinCoder/MOSAIC_Protocols_private/blob/main/FilterFold.JPG)
+![FilterFold)](https://github.com/CalCOFI/MOSAIC_Underway_Sampling/blob/main/Images/FilterFold.JPG)
 
 Figure 4. Step 15. ...Roll the filter into a little tube or fold into eighths and stick into the vial. It is helpful to use two sets of forceps for this. See video protocol for one possible technique to do this with one pair of forceps.
 
-![HousingAttach)](https://github.com/DolphinCoder/MOSAIC_Protocols_private/blob/main/HousingAttach.JPG)
+![HousingAttach)](https://github.com/CalCOFI/MOSAIC_Underway_Sampling/blob/main/Images/HousingAttach.JPG)
 
 Figure 5. Step 4. Attach the Swinnex housing + filter to the adapter at the end of the tubing with the tap on low pressure.
 
-![PCRHoodSetup)](https://github.com/DolphinCoder/MOSAIC_Protocols_private/blob/main/PCRHoodSetup.JPG)
+![PCRHoodSetup)](https://github.com/CalCOFI/MOSAIC_Underway_Sampling/blob/main/Images/PCRHoodSetup.JPG)
 
 Figure 6. PCR hood setup used in this protocol.
 
-![SinkSetup)](https://github.com/DolphinCoder/MOSAIC_Protocols_private/blob/main/SinkSetup.JPG)
+![SinkSetup)](https://github.com/CalCOFI/MOSAIC_Underway_Sampling/blob/main/Images/SinkSetup.JPG)
 
 Figure 7. Underway filtration setup in a lab sink.
