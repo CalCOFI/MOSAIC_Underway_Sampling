@@ -140,6 +140,7 @@ The process of setting up, starting, and finishing a sample should take around 6
 | Screw end for tubing | Stainless Steel 1/4" Hose Barb to 1/4" Female | Beduan or generic brand | 4 | To attach the filter housings to the tube. Assemble the tubing with housing before departing on a cruise to ensure good fit. |
 | **Consumable equipment** |
 | Field notebook | Notebook, ideally with waterproof pages | Generic brand | 1 | Transfer to digital sample sheet once a day during cruise |
+| Filter housings | Swinnex filter housings, 47 mm | Millipore Sigma | 24 | Quantity depends on how often you will be able to sterilize them |
 | DNA/RNA Shield | Zymo DNA/RNA Shield, Catalog # R1100-250 | Zymo Research | 250 mL | 0.4mL required per sample. |
 | DNAway | DNA Away Catalog # 7010 | Molecular BioProducts | 250 mL | For sterilizing the hood, pipette, and scissors. |
 | Gloves | Powder-free nitrile gloves | Generic brand | 1 box | Expect approximately 3 boxes for a 10-day cruise. Can be any generic brand of gloves. |
